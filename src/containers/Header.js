@@ -7,7 +7,7 @@ export default class Header extends Component {
     return <Navbar inverse collapseOnSelect>
   <Navbar.Header>
     <Navbar.Brand>
-      <a href='#brand'>SPA</a>
+      <a href='#brand'><img src='./src/img/logo.png' width='30'/></a>
     </Navbar.Brand>
     <Navbar.Toggle />
   </Navbar.Header>
