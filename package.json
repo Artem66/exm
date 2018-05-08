@@ -1,12 +1,12 @@
 {
-  "name": "QAbyAI",
+  "name": "SPA-site",
   "version": "1.0.0",
   "description": "SPA-site",
   "main": "index.js",
   "scripts": {
     "start": "node bin/server.js"
   },
-  "author": "QAbyAI",
+  "author": "SPA-site",
   "license": "",
   "devDependencies": {
     "autoprefixer": "^6.3.3",
